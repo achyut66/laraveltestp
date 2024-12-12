@@ -19,7 +19,8 @@
             @csrf
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                 <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-                    <div class="text-center">Personal Information <span>
+                    <div class="text-center">Personal Information()
+                         <span>
                             <div class="text-right">
                                 <button type="button" class="btn btn-primary" data-bs-toggle="modal"
                                     data-bs-target="#exampleModal">ViewInfo</button>
