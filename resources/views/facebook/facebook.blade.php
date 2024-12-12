@@ -8,7 +8,7 @@
                     <!-- Initial Row -->
                     <div class="row" id="row_1">
                         <div class="col-md-3">
-                            <div class="titleInput">Facebook Username:
+                            <div class="titleInput">Facebook Username(Username):
                                 <span><input class="form-control" type="text" name="f_name[]"></span>
                             </div>
                         </div>
