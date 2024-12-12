@@ -1,0 +1,8 @@
+stages:
+  - test
+
+test_job:
+  stage: test
+  script:
+    - npm install  # Install dependencies
+    - npm test      # Run tests (e.g., with a testing framework like Jest)
